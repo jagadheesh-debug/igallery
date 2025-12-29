@@ -376,7 +376,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-<img width="1866" height="870" alt="image" src="https://github.com/user-attachments/assets/d6499d7a-0afd-473f-82ec-cc0037798c84" />
+<img width="1015" height="477" alt="image" src="https://github.com/user-attachments/assets/1bf44dc6-9640-49b4-844f-1a469caaa2e2" />
 
 
 ## RESULT:
